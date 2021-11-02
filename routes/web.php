@@ -19,5 +19,5 @@ Route::get('/', function () {
 
 Route::get('home',[HomeController::class,'index']);
 
-
+Route::get('hello/{name?}',[HelloController::class,'index'])->name("hello.index");
 

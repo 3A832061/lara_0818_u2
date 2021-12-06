@@ -1,4 +1,3 @@
-<html>
 <ul>
     <li>
         <a href="#">Item1</a>
@@ -7,4 +6,3 @@
         <a href="#">Item2</a>
     </li>
 </ul>
-</html>
